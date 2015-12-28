@@ -1,0 +1,8 @@
+.important {
+	font-weight: bold;
+}
+
+#datepicker:hover {
+    cursor: pointer;
+}
+    
